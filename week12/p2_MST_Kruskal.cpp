@@ -62,7 +62,7 @@ void input(){
 
 int weight_res = 0;
 void kruskal(){
-    DSU G = DSU(n);
+    DSU G(n);
     sort(A.begin(), A.end());
     for( auto i : A){
         int u = i.node1;

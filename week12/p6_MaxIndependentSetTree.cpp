@@ -1,4 +1,4 @@
-// Sử dụng quy hoạch động trên cây (top-down) --- O(n)
+// Sử dụng quy hoạch động trên cây (bottom up) --- O(n)
 
 #include<bits/stdc++.h>
 
