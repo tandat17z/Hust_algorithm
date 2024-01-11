@@ -1,0 +1,174 @@
+view_position O88
+view_position O81
+create RECTANGLE O55 75 797 4 5 D 3
+change_direction O16 L 5
+change_direction O37 U 2
+view_position O28
+move
+view_position O34
+view_position O12
+move
+move
+change_direction O90 R 4
+change_direction O95 L 3
+view_position O18
+view_position O80
+move
+move
+change_direction O64 D 5
+change_direction O22 L 1
+change_direction O39 R 3
+view_position O40
+move
+move
+view_position O61
+move
+view_position O56
+move
+create RECTANGLE O87 26 306 2 2 U 2
+move
+create CIRCLE O43 731 187 3 L 5
+move
+change_direction O88 U 1
+view_position O93
+create CIRCLE O1 668 901 1 D 2
+move
+move
+move
+create CIRCLE O85 351 705 5 U 5
+change_direction O27 R 1
+change_direction O91 D 5
+move
+view_position O13
+create CIRCLE O39 186 494 5 R 3
+create CIRCLE O62 789 305 5 D 5
+change_direction O72 D 3
+change_direction O27 R 5
+create CIRCLE O65 404 928 2 R 4
+change_direction O76 U 5
+view_position O99
+create CIRCLE O22 435 610 4 D 5
+view_position O60
+create CIRCLE O64 275 308 5 U 1
+view_position O52
+change_direction O33 L 5
+create RECTANGLE O94 460 474 5 1 R 4
+create CIRCLE O60 217 446 4 D 4
+change_direction O17 R 5
+change_direction O36 L 2
+view_position O33
+view_position O57
+change_direction O73 R 4
+view_position O15
+change_direction O3 R 5
+create RECTANGLE O42 491 348 2 5 L 4
+move
+move
+move
+move
+create CIRCLE O35 23 228 4 R 4
+move
+move
+view_position O85
+move
+change_direction O84 D 5
+create CIRCLE O32 461 586 3 L 2
+view_position O78
+view_position O88
+create RECTANGLE O4 510 187 3 2 L 2
+move
+change_direction O6 D 4
+create CIRCLE O40 406 626 3 R 1
+view_position O46
+view_position O83
+view_position O6
+change_direction O21 L 2
+move
+create CIRCLE O21 958 927 1 U 3
+change_direction O21 U 3
+view_position O50
+move
+create RECTANGLE O20 269 377 1 2 D 1
+move
+change_direction O88 U 5
+change_direction O26 U 3
+view_position O60
+create CIRCLE O76 290 565 2 U 5
+move
+change_direction O82 L 1
+change_direction O4 L 4
+change_direction O23 L 5
+view_position O30
+create RECTANGLE O72 916 734 4 3 D 3
+change_direction O93 R 4
+create CIRCLE O67 102 802 5 R 1
+create RECTANGLE O54 940 630 4 1 R 1
+change_direction O88 U 2
+create RECTANGLE O93 756 96 3 4 D 3
+create RECTANGLE O59 96 480 4 5 L 3
+view_position O87
+create RECTANGLE O19 965 268 2 5 U 2
+create CIRCLE O75 357 795 5 U 5
+change_direction O96 L 5
+create CIRCLE O10 37 155 3 L 1
+move
+view_position O74
+view_position O93
+change_direction O10 U 3
+change_direction O21 L 2
+create RECTANGLE O49 220 318 2 5 U 5
+change_direction O29 L 1
+change_direction O13 R 2
+view_position O24
+move
+change_direction O75 D 2
+view_position O51
+move
+create RECTANGLE O9 698 222 2 5 D 2
+move
+change_direction O10 L 2
+change_direction O32 R 1
+create RECTANGLE O46 498 149 2 3 D 1
+move
+move
+create RECTANGLE O28 975 666 1 4 U 1
+move
+change_direction O5 U 4
+view_position O15
+move
+view_position O86
+change_direction O98 U 1
+view_position O100
+move
+view_position O51
+create RECTANGLE O12 401 166 3 5 R 4
+view_position O20
+view_position O50
+create RECTANGLE O71 256 866 5 5 R 1
+create CIRCLE O52 604 791 5 D 1
+change_direction O35 R 1
+change_direction O5 D 4
+create CIRCLE O69 367 468 5 R 3
+change_direction O98 L 4
+move
+move
+change_direction O12 U 5
+move
+change_direction O28 L 1
+change_direction O12 U 2
+change_direction O6 U 5
+change_direction O10 L 5
+create CIRCLE O77 887 881 5 U 5
+change_direction O11 R 5
+change_direction O50 L 3
+move
+change_direction O75 L 1
+change_direction O20 U 4
+move
+create RECTANGLE O5 288 784 1 3 L 1
+view_position O100
+move
+view_position O38
+move
+view_position O75
+
