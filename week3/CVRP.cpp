@@ -4,7 +4,7 @@ using namespace std;
 int n, k, q;
 int d[13];
 int c[13][13];
-int total_d, empty_route;
+int total_d, empty_track; 
 int x[13][100];
 int cur_total_d, cur_capa, min_total_d = 1e9;
 int mark[100], visited;
@@ -18,7 +18,7 @@ void input(){
         cin >> d[i];
         total_d += d[i];
     }
-    empty_route = k - (total_d/q + 1);
+    empty_track = k - (total_d/q + 1);
 
     for( int i = 0; i<= n; i++){
         for( int j = 0; j<= n; j++){
@@ -29,7 +29,7 @@ void input(){
 
 bool checkY(int i, int ky){
     if( i != 0 && mark[i] ) return false;
-    if( i == 0 && ky - 1 < empty_route ) return true;
+    if( i == 0 && ky - 1 < empty_track ) return true;
     if( i > x[ky - 1][0] ) return true;
     return false;
 }
